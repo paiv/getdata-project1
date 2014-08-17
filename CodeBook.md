@@ -135,7 +135,7 @@ Note that original names of the features preserved, while their value averaged.
 
 
 ## Source of the data
-Original data is **Human Activity Recognition Using Smartphones Dataset** from [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]()
+Original data is **Human Activity Recognition Using Smartphones Dataset** from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ### README.txt
 

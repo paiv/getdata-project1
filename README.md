@@ -15,8 +15,8 @@ Running the script from command line
 
     Rscript run_analysis.R
 
-The script loads data from [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]() and writes resulting dataset into `averages.txt`.
+The script loads data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and writes resulting dataset into `averages.txt`.
 
-See [CodeBook.md]() for description of processed data.
+See [CodeBook.md](CodeBook.md) for description of processed data.
 
 The script was tested on R v3.1.1, Mac OS X
